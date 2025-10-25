@@ -4,3 +4,5 @@ import { App } from './app/app';
 
 bootstrapApplication(App, appConfig)
   .catch((err) => console.error(err));
+
+//TODO: You are at video 001, 07 - Aplicacion de Gifs
